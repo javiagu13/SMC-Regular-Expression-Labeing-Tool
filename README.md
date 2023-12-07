@@ -1,5 +1,9 @@
 # Samsung Medical Center Regex Curation Tool
 
+<div align="center" style="height:150px; width=200px">
+  <img src="https://github.com/javiagu13/SMC-Regular-Expression-Labeing-Tool/blob/main/icon.png">
+</div>
+
 ### Instructions
 
 #### Requirements
@@ -27,4 +31,6 @@ The .yml files in config define the regular expressions, you can add as many con
 
 
 
-Written by Javier Aguirre at 2023-12-05, Samsung Medical Center, Smart Health Lab, Seoul
+<div align="center" style="background-color:black;">
+    Written by Javier Aguirre - Samsung Medical Center - Smart Health lab - 2023-12-07
+</div>
